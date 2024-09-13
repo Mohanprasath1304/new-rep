@@ -43,6 +43,10 @@ class calculator {
       default:
         System.out.println("Invalid operator!");
         break;
+
+      default:
+        System.out.println("Invalid operator!");
+        break;
     }
   }
 }
